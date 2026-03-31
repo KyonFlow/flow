@@ -1,0 +1,1 @@
+{\n  "routes": [\n    {\n      "src": "/mirakel.html",\n      "dest": "/",\n      "status": 200\n    }\n  ],\n  "trailingSlash": false\n}
